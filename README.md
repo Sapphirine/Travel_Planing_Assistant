@@ -1,4 +1,4 @@
-# Traveling_Planning_Assisntant
+# Travel Planing Assistant
 ## Goals
 The big data analysis in transportation industry has shown great importance in travel planning and distribution. 
 
